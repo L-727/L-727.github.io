@@ -6,4 +6,5 @@
 <li>:hotsprings:Hobbies and Interests：I like delicious food,travel and playing various board games with my friends, but at the same time, my outgoing personality encourages me to do sports:basketball:,Even though I'm on the thin side, I'm still trying to gain weight by working out and eating extra, and I think one day I'll have the perfect bmi:feet:</li>
 <li>:thought_balloon:Future planning：I will try my best to prepare for the entrance exam. If I have the honor to go to the shore, I will continue to study computer knowledge in the postgraduate stage. If I fail to do so, perhaps my second choice is to find a job</li>
 
-<img src="https://github.com/L-727/L-727.github.io/blob/master/2034166.jpg" width="400" height="250" /><br/>
+
+<img src="https://github.com/L-727/L-727.github.io/blob/master/2034166.jpg" width="400" height="200" alt="抖音小程序"/><br/>
