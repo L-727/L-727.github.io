@@ -10,7 +10,7 @@ date:   2023-09-05 12:12:12
 
 
 ### current status
-I am a student majoring in computer science at FZU.In the past three years, I have learned some basic knowledge such as C,C++, Py, algorithm and so on in school, but obviously I still need to learn them more deeply. I am interested in computer vision, deep learning and other knowledge, and I would like to learn related content through various channels.
+I am a student majoring in computer science at FZU. In the past three years, I have learned some basic knowledge such as C,C++, Py, algorithm and so on in school, but obviously I still need to learn them more deeply. I am interested in computer vision, deep learning and other knowledge, and I would like to learn related content through various channels.
 Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.
 
 ### Some work in progress
