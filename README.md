@@ -1,17 +1,9 @@
-# Jekyll Modern Blog
+# Home page for L-727
 
-A Simple, Clean and responsive modern blog for jekyll.
+<p>:collision:I am a student majoring in computer science at FZU</p>
+<li>:sun_with_face:current status：In the past three years, I have learned some basic knowledge such as C,C++, Py, algorithm and so on in school, but obviously I still need to learn them more deeply. I am interested in computer vision, deep learning and other knowledge, and I would like to learn related content through various channels.</li>
+<li>:sparkles:Some work in progress：In the middle of 2023, some friends and I applied for the school-level srtp project "Research on the Quality Identification System of the Golden Lotus Based on Machine Vision".(《基于机器视觉的金线莲质量鉴别系统研究》)</li>
+<li>:hotsprings:Hobbies and Interests：I like delicious food,travel and playing various board games with my friends, but at the same time, my outgoing personality encourages me to do sports:basketball:,Even though I'm on the thin side, I'm still trying to gain weight by working out and eating extra, and I think one day I'll have the perfect bmi:feet:</li>
+<li>:thought_balloon:Future planning：I will try my best to prepare for the entrance exam. If I have the honor to go to the shore, I will continue to study computer knowledge in the postgraduate stage. If I fail to do so, perhaps my second choice is to find a job</li>
 
-## [Live Demo](http://inded.github.io/Jekyll_modern-blog/)
-
-## Attributions
-Based off of this [article from Codrops](http://tympanus.net/codrops/?p=24222)
-Using Sample images from [Fancy Crave](http://fancycrave.com/)
-
-## License
-
-Based off of this [Article on Codrops](http://tympanus.net/codrops/?p=24222)
-
-Created by Claudio Calautti for Codrops. Released under the [GNU GPL license v3](https://www.gnu.org/licenses/gpl-3.0.html).
-
-Changes being that I made it jekyll ready and smushed the CSS together.
+<img src="https://github.com/L-727/L-727.github.io/blob/main/2023259.jpg" width="400" height="250" /><br/>
