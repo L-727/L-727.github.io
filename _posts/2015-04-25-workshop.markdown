@@ -1,10 +1,10 @@
 ---
-title:  "A Craftsman Workshop"
+title:  "About myself"
 subtitle: "It's always a bit messy"
-author: "Wferr"
+author: "L-727"
 avatar: "img/authors/wferr.png"
 image: "img/f.jpg"
-date:   2015-04-25 12:12:12
+date:   2023-09-05 12:12:12
 ---
 
 ### Dolor sit amet?
