@@ -3,7 +3,7 @@ title:  "About myself"
 subtitle: "It's always a bit messy"
 author: "L-727"
 avatar: "img/authors/wferr.png"
-image: "img/f.jpg"
+image: "img/aboutmyself.jpg"
 date:   2015-04-25 12:12:12
 ---
 
